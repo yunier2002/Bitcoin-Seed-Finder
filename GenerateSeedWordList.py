@@ -17,7 +17,7 @@ word_list = bip39.WORDLIST
 net = NETWORKS['main']
 
 
-known_word_list = ["blast", "trend", "solve", "giant", "soda", "lounge", "spell", "balcony", "knife", "sad"]  #Custom wordlist
+known_word_list = ["blast", "hollow", "solve", "giant", "soda", "lounge", "spell", "balcony", "knife", "sad"]  #Custom wordlist
 address_to_find = "bc1q7kw2uepv6hfffhhxx2vplkkpcwsslcw9hsupc6"
 Num_of_known_words = 10
 Num_of_missing_words = 1  #Don't count last word as that is the checksum and will be calculated automatically later
